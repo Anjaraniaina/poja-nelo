@@ -11,7 +11,7 @@ on:
       - 'prod'
 
 env:
-  AWS_REGION: eu-north-1
+  AWS_REGION: eu-west-3
 
 jobs:
   check-sync-stack:
